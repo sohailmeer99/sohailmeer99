@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my own E-commerce project <br>👯 I'm looking to collaborate on Web Development projects<br>🌱 I'm currently learning ReactJS and NodeJS {ExpressJS}<br>                                            👋👋🏼🤝🚀<br> 
+🔭 Currently working on my own E-commerce project <br>👯 Looking to collaborate on Web Development projects<br>🌱 Currently learning ReactJS and NodeJS {ExpressJS}<br>                                            👋👋🏼🤝🚀<br> 
 
 
 ## 🌐 Socials:
